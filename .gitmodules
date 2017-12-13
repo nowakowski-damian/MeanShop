@@ -1,0 +1,9 @@
+[submodule "meanshop-api"]
+	path = meanshop-api
+	url = https://github.com/thirteendollars/meanshop-api.git
+[submodule "meanshop-adminpanel"]
+	path = meanshop-adminpanel
+	url = https://github.com/thirteendollars/meanshop-adminpanel.git
+[submodule "meanshop-shop"]
+	path = meanshop-shop
+	url = https://github.com/thirteendollars/meanshop-shop.git
